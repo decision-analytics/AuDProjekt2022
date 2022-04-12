@@ -1,0 +1,18 @@
+name: audprojekt2022
+channels:
+- fastai
+- conda-forge
+- defaults
+dependencies:
+- python=3.9
+- pip
+- ipykernel
+- numpy
+- matplotlib
+- pandas
+- scipy
+- scikit-learn
+- networkx
+- pip:
+  - mip
+  - python-tsp
