@@ -13,6 +13,7 @@ dependencies:
 - scipy
 - scikit-learn
 - networkx
+- numba
 - pip:
   - mip
   - python-tsp
